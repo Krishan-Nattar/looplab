@@ -29,3 +29,24 @@ body {
 
 .card-form {
   opacity: 0.8; }
+
+#explore-section .fa {
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#create-section .fa {
+  color: #008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#share-section .fa {
+  background: #333;
+  color: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
